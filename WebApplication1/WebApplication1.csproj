@@ -116,6 +116,7 @@
     <Content Include="Views\Shared\_Layout 2.cshtml" />
     <Content Include="Views\Home\Faq.cshtml" />
     <Content Include="Views\Shared\_Carousel.cshtml" />
+    <Content Include="Views\Shared\_RecentProjects.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
